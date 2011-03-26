@@ -3,7 +3,7 @@ layout: default
 title: "Open Font License FAQ"
 class: ofl-faq
 url: /ofl-faq
-download: https://github.com/theleagueof/LeagueGothic/raw/master/OFL-FAQ.markdown
+download: ofl-faq
 ---
 
 	Version 1.1-update2 - 23 August 2010 | (See http://scripts.sil.org/OFL for updates)

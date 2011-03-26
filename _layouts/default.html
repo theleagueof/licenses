@@ -17,7 +17,9 @@
 			{{ content }}
 	</article>
 	{% if page.download %}
-			<a href="{{ page.download }}" class="download">Download Example</a>
+		<footer>
+			<a href="https://github.com/theleagueof/licenses/raw/master/{{ page.download }}.txt" class="download">Download .txt</a> <a href="https://github.com/theleagueof/licenses/raw/master/{{ page.download }}.markdown" class="download">Download .markdown</a>
+		</footer>
 	{% endif %}
 	
 	<footer class="signature">

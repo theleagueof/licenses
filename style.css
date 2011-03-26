@@ -16,9 +16,10 @@ body.github{
 .github footer {
     border-top: 4px solid #e0e0e0;
     margin-top: 1.618em;
-    padding-top: 1.618em;
+    padding-left: 6.853em;
     text-align:center;
     color: silver;
+    clear:both;
 }
 
 .github footer img {
@@ -32,10 +33,11 @@ body.github{
     border: 1px solid #e0e0e0;
 }
 
-.github a.download {
+.github footer a.download {
     display:block;
+    float:left;
     width: 133.066px;
-    margin: 2.618em auto;
+    margin: 2.618em 1em;
     padding: 1em 1.618em;
     text-align: center;
     

@@ -2,7 +2,7 @@
 layout: default
 title: "Open Font License Example"
 class: ofl
-download: https://github.com/theleagueof/LeagueGothic/raw/master/OFL.markdown
+download: ofl
 ---
 
 	Copyright (c) <Date>, <Author Name> <author email>, with Reserved Font Name: "<Font Name>".
