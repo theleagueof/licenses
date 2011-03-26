@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+
+	<title>{{ page.title }}</title>
+</head>
+<body class="github">
+	<h1><span class="name">The League of Moveable Type</span> {{ page.title }}</h1>
+	<h2><img src="images/OFLLogoCircGray.png" alt="OFL Logo" width="20"> Open Font Licenses</h2>
+
+	{% include contents.html %}
+	
+	{{ content }}
+
+	<h4 class="signature"><img src="http://gravatar.com/avatar/ae85d3a9addb145061260a4ccfa541e1" alt="The League of Moveable Type Logo"> - The League of Moveable Type</h4>
+</body>
+</html>
