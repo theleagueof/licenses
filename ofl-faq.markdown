@@ -8,7 +8,7 @@ download: ofl-faq
 
 	Version 1.1-update2 - 23 August 2010 | (See http://scripts.sil.org/OFL for updates)
 
-# Frequently Asked Questions
+Frequently Asked Questions
 ==================================================================
 
 ### About the SIL Open Font License (OFL) 
@@ -36,7 +36,7 @@ Contents of This FAQ
 9. About SIL International
 
 
-# 1. Using and Distributing Fonts Licensed Under the OFL
+1. Using and Distributing Fonts Licensed Under the OFL
 ==========================================================
 
 ### 1.1  Can I use the fonts for a book or other print publication?
@@ -96,7 +96,7 @@ Contents of This FAQ
 ### 1.19  What do you mean in condition 4? Can you provide examples of abusive promotion / endorsement / advertisement vs. normal acknowledgement?
 >> The intent is that the goodwill and reputation of the author(s) should not be used in a way that makes it sound like the original author(s) endorse or approve of a specific Modified Version or software bundle. For example, it would not be right to advertise a word processor by naming the author(s) in a listing of software features, or to promote a Modified Version on a web site by saying "designed by ...". However, it would be appropriate to acknowledge the author(s) if your software package has a list of people who deserve thanks. We realize that this can seem to be a grey area, but the standard used to judge an acknowledgement is that if the acknowledgement benefits the author(s) it is allowed, but if it primarily benefits other parties, or could reflect poorly on the author(s), then it is not.
 
-# 2. Using OFL Fonts for Webpages and Online Webfont Services
+2. Using OFL Fonts for Webpages and Online Webfont Services
 ===============================================================
 
 ### 2.1  Can I make webpages using these fonts?
@@ -128,7 +128,7 @@ Contents of This FAQ
 >> Yes, it is permitted, but remember that these optimised versions are Modified Versions and so must follow OFL requirements like appropriate renaming. Also you need to bear in mind the other important parameters beyond compression, speed and responsiveness: you need to consider the audience of your particular website or web application, as choosing some optimisation parameters may turn out to be less than ideal for them. Subsetting by removing certain glyphs or features may seriously limit functionality of the font in various languages used by your users. It may also introduce degradation of quality in the rendering or specific bugs on the various platforms compared to the original font. In other words, remember that one person's optimised font may be another person's missing feature. Various advanced typographic features are also available through CSS and may provide the desired effects without the need to modify the font.
 
 
-# 3. Modifying OFL-Licensed Fonts
+3. Modifying OFL-Licensed Fonts
 ====================================
 
 ### 3.1  Can I change the fonts? Are there any limitations to what things I can and cannot change?
@@ -152,7 +152,7 @@ Contents of This FAQ
 ### 3.7  If a trademark is claimed in the OFL font, does that trademark need to remain in modified fonts?
 >> Yes, any trademark notices must remain in any derivative fonts to respect trademark laws, but you may add any additional trademarks you claim, officially registered or not. For example if an OFL font called "Foo" contains a notice that "Foo is a trademark of Acme", then if you rename the font to "Bar" when creating a Modified Version, the new trademark notice could say "Foo is a trademark of Acme Inc. - Bar is a trademark of Roadrunner Technologies Ltd.". Trademarks work alongside the OFL and are not subject to the terms of the licensing agreement. Please refer to the appropriate trademark laws.
 
-# 4. Licensing Your Original Fonts Under the OFL
+4. Licensing Your Original Fonts Under the OFL
 ===================================================
 
 ### 4.1  Can I use the SIL OFL for my own fonts?
@@ -197,7 +197,7 @@ Contents of This FAQ
 >> - to give back and contribute to a growing body of font sources
 
 
-# 5. Choosing Reserved Font Names
+5. Choosing Reserved Font Names
 ===================================
 
 ### 5.1  What are Reserved Font Names?
@@ -231,7 +231,7 @@ Contents of This FAQ
 >> Yes. List your additional Reserved Font Names after your additional copyright statement, as indicated with example placeholders at the top of the OFL.txt file. Be sure you do not remove any exiting RFNs but only add your own.
 
 
-# 6. About the Fontlog
+6. About the Fontlog
 ========================
 
 ### 6.1  What is this FONTLOG thing exactly?
@@ -253,7 +253,7 @@ Contents of This FAQ
 
 >> It could also include other sections, such as: where to find documentation, how to make contributions, information on contributing organizations, source code details, and a short design guide.
 
-# 7. Making Contributions to OFL Projects
+7. Making Contributions to OFL Projects
 ===========================================
 
 ### 7.1  Can I contribute work to OFL projects?
@@ -268,7 +268,7 @@ Contents of This FAQ
 ### 7.4  How can I financially support the development of OFL fonts?
 >> It is likely that most authors of OFL fonts would accept financial contributions - contact them for instructions on how to do this. Such contributions would support future development. You can also pay for others to enhance the fonts and contribute the results back to the original authors for inclusion in the Original Version.
 
-# 8. About the License Itself
+8. About the License Itself
 ===============================
 
 ### 8.1  I see that this is version 1.1 of the license. Will there be later changes?
@@ -298,7 +298,7 @@ Contents of This FAQ
 
 >> If you start such a unofficial translation effort of the OFL and OFL-FAQ please let us know.
 
-# 9. About SIL International
+9. About SIL International
 ==============================
 
 ### 9.1  Who is SIL International and what do they do?
