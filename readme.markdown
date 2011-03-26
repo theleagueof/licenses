@@ -1,4 +1,4 @@
-<img src="https://github.com/theleagueof/font-license-reference/tree/gh-pages/images/OFLLogoCircGray.png" alt="OFL Logo"> Open Font License Reference
+<img src="https://github.com/theleagueof/font-license-reference/tree/gh-pages/images/OFLLogoCircGray.png" alt="OFL Logo" width="20"> Open Font License Reference
 ==================================================
 
 The Open Font License (OFL), is a license we like here at The League of Moveable Type, because itâ€™s the only open-source license specifically designed for fonts.
@@ -9,4 +9,4 @@ In order to make it slightly more readable, and a little less overwhelming, weâ€
 Now go read!
 
 #### - The League of Moveable Type
-<img src="https://github.com/theleagueof/font-license-reference/tree/gh-pages/images/theleague-logo.png" alt="The League of Moveable Type Logo"> 
+<img src="https://github.com/theleagueof/font-license-reference/tree/gh-pages/images/leaguelogo.png" alt="The League of Moveable Type Logo"> 
