@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------*/
 
 .github{
-  font-family:Helvetica !important;
+  font-family:Helvetica;
   font-size: 12px;
   width: 563.642px;
   margin: 4em auto;
@@ -13,15 +13,60 @@ body.github{
   background:#f8f8f8;
 }
 
+.github footer {
+    border-top: 4px solid #e0e0e0;
+    margin-top: 1.618em;
+    padding-top: 1.618em;
+    text-align:center;
+    color: silver;
+}
+
+.github footer img {
+    margin: 0 auto;
+    display: block;
+}
+
+.github article {
+    background-color: #fff;
+    padding: 6px 1em;
+    border: 1px solid #e0e0e0;
+}
+
+.github a.download {
+    display:block;
+    width: 133.066px;
+    margin: 2.618em auto;
+    padding: 1em 1.618em;
+    text-align: center;
+    
+    background: #EFEFEF; /* old browsers */
+    background: -moz-linear-gradient(top, #EFEFEF 0%, #D8D8D8 100%); /* firefox */
+
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EFEFEF), color-stop(100%,#D8D8D8)); /* webkit */
+
+    border: 1px solid #cecece;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 2px 1px #a1a1a1;
+    -moz-box-shadow: 0px 2px 1px #a1a1a1;
+    box-shadow: 0px 2px 1px #a1a1a1;
+    
+}
+
 .github h1, h2, h3, h4, h5, h6 {
-  border: 0 !important;
+  border: 0;
 }
 
 .github h1 {
-  font-size: 340% !important;
-  border-top: 4px solid #aaa !important;
-  padding-top: .5em !important;
-  margin-top: 1.5em !important;
+  font-size: 241.654%;
+  border-top: 4px solid #aaa;
+  padding-top: .5em;
+  margin-top: 1.5em;
+}
+
+.github article.ofl h1#sil_open_font_license, .github article.ofl-faq h1#frequently_asked_questions {
+    margin-top: 0em;
+    border-top: none;
 }
 
   .github h1 .name {
@@ -30,38 +75,37 @@ body.github{
       margin-bottom: 0.382em;
   }
   .github h1:first-child {
-    margin-top: 0 !important;
-    padding-top: .25em !important;
-    border-top: none !important;
+    margin-top: 0;
+    padding-top: .25em;
+    border-top: none;
   }
 
 .github h2 {
-  font-size: 150% !important;
-  margin-top: 1.5em !important;
-  border-top: 4px solid #e0e0e0 !important;
-  padding-top: .5em !important;
+  font-size: 150%;
+  margin-top: 1.5em;
+  border-top: 4px solid #e0e0e0;
+  padding-top: .5em;
 }
 
 .github h3 {
-  margin-top: 1em !important;
-}
-
-.github h4.signature img {
-    vertical-align: middle;
+  margin-top: 1em;
 }
 
 .github p {
-  margin: 1em 0 !important;
-  line-height: 1.618em !important;
+  margin: 1em 0;
+  line-height: 1.618em;
 }
 
 .github ul {
   padding: 1em;
-  margin: 1em 0 1em 2em !important;
+  margin: 1em 0 1em 2em;
 }
 
+.github ol.contents {
+    padding: 1em;
+}
   
-  .github ul li {
+  .github ul li, .github ol.contents li {
     margin-bottom: 0.75em;
   }
   
@@ -70,104 +114,104 @@ body.github{
  }
 
 .github ol {
-  margin: 1em 0 1em 2em !important;
+  margin: 1em 0 1em 2em;
 }
 
   .github ol ol {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
 .github ul ul,
 .github ul ol,
 .github ol ol,
 .github ol ul {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .github blockquote {
-  margin: 1em 0 !important;
-  border-left: 5px solid #ddd !important;
-  padding-left: .6em !important;
-  color: #555 !important;
+  margin: 1em 0;
+  border-left: 5px solid #ddd;
+  padding-left: .6em;
+  color: #555;
 }
 
 .github dt {
-  font-weight: bold !important;
-  margin-left: 1em !important;
+  font-weight: bold;
+  margin-left: 1em;
 }
 
 .github dd {
-  margin-left: 2em !important;
-  margin-bottom: 1em !important;
+  margin-left: 2em;
+  margin-bottom: 1em;
 }
 
 .github table {
-  margin: 1em 0 !important;
+  margin: 1em 0;
 }
 
   .github table th {
-    border-bottom: 1px solid #bbb !important;
-    padding: .2em 1em !important;
+    border-bottom: 1px solid #bbb;
+    padding: .2em 1em;
   }
 
   .github table td {
-    border-bottom: 1px solid #ddd !important;
-    padding: .2em 1em !important;
+    border-bottom: 1px solid #ddd;
+    padding: .2em 1em;
   }
 
 .github pre {
-  margin: 1em 0 !important;
-  font-size: 90% !important;
-  background-color: #f8f8ff !important;
-  border: 1px solid #dedede !important;
-  padding: .5em !important;
-  line-height: 1.5em !important;
-  color: #444 !important;
-  overflow: auto !important;
+  margin: 1em 0;
+  font-size: 90%;
+  background-color: #f8f8ff;
+  border: 1px solid #dedede;
+  padding: .5em;
+  line-height: 1.5em;
+  color: #444;
+  overflow: auto;
 }
 
   .github pre code {
-    padding: 0 !important;
-    font-size: 100% !important;
-    background-color: #f8f8ff !important;
-    border: none !important;
+    padding: 0;
+    font-size: 100%;
+    background-color: #f8f8ff;
+    border: none;
   }
 
 .github code {
-  font-size: 90% !important;
-  background-color: #f8f8ff !important;
-  color: #444 !important;
-  padding: 0 .2em !important;
-  border: 1px solid #dedede !important;
+  font-size: 90%;
+  background-color: #f8f8ff;
+  color: #444;
+  padding: 0 .2em;
+  border: 1px solid #dedede;
 }
 
 /* console */
 
 .github pre.console {
-  margin: 1em 0 !important;
-  font-size: 90% !important;
-  background-color: black !important;
-  padding: .5em !important;
-  line-height: 1.5em !important;
-  color: white !important;
+  margin: 1em 0;
+  font-size: 90%;
+  background-color: black;
+  padding: .5em;
+  line-height: 1.5em;
+  color: white;
 }
 
   .github pre.console code {
-    padding: 0 !important;
-    font-size: 100% !important;
-    background-color: black !important;
-    border: none !important;
-    color: white !important;
+    padding: 0;
+    font-size: 100%;
+    background-color: black;
+    border: none;
+    color: white;
   }
 
   .github pre.console span {
-    color: #888 !important;
+    color: #888;
   }
 
   .github pre.console span.command {
-    color: yellow !important;
+    color: yellow;
   }
 
 /* @end */
