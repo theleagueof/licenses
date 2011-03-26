@@ -2,6 +2,7 @@
 layout: default
 title: "Open Font License FAQ"
 class: ofl-faq
+url: /ofl-faq
 download: https://github.com/theleagueof/LeagueGothic/raw/master/OFL-FAQ.markdown
 ---
 
